@@ -1,4 +1,4 @@
-#!/user/bin/env pyhton3
+#!/user/bin/env python3
 import sys
 
 
@@ -15,9 +15,6 @@ class initialize:
             # type check args
             # if they contain an E or 10^x then it is scientific notation
             # else parse to float
-
-
-
             self.m1 = m1
             self.m2 = m2
             self.distance = distance
